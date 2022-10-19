@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audifaxdev&langs_count=10&hide_title=true&layout=compact&exclude_repo=webDOOM,Tanks&text_color=fff&bg_color=00000040&hide_border=true&locale=en&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audifaxdev&langs_count=20&hide_title=true&layout=compact&exclude_repo=webDOOM,Tanks&text_color=fff&bg_color=00000040&hide_border=true&locale=en&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![audifaxdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=audifaxdev&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
